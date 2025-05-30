@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=000000&center=true&vCenter=true&random=false&width=524&lines=Desenvolvedor+Front+End" alt="Typing SVG">
+<img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=000000&center=true&vCenter=true&random=false&width=524&lines=Desenvolvedor+Front+End" alt="Typing SVG">
 
 <h2> :computer: Sobre mim </h2>
 
