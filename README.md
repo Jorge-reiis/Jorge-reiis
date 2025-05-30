@@ -17,11 +17,7 @@
 <img width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
 </div>
 <br>
-<h4>CONTATO</h4>
+<h4> :rocket: CONTATO</h4>
 <a href="https://www.linkedin.com/in/jorge-reis-dos-santos/" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40">
-</a>
-
-<a href="mailto:reisjorge2004@gmail.com">
-  <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" height="40">
 </a>
