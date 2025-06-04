@@ -6,7 +6,7 @@
   <br>
   E em busca da minha primeira oportunidade profissional na área de desenvolvimento.</p>
 <br>
-🔧 Praticando...
+🔧 Tecnologias...
 <br>
 <br>
    <div>
