@@ -20,3 +20,11 @@
 <a href="https://www.linkedin.com/in/jorge-reis-dos-santos/" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40">
 </a>
+
+
+
+
+<h3>📊 Estatísticas:</h3>
+<br>
+
+[![Jorrgestats](https://github-readme-stats.vercel.app/api?username=jorge-reiis)](https://github.com/anuraghazra/github-readme-stats)
