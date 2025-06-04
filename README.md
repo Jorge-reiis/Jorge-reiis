@@ -6,8 +6,7 @@
   <br>
   E em busca da minha primeira oportunidade profissional na área de desenvolvimento.</p>
 <br>
-🔧 Tecnologias...
-<br>
+🔧 <h2>Tecnologias...</h2>
 <br>
    <div>
 <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
